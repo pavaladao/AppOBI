@@ -1,4 +1,4 @@
-# AppOBI
+# interactive-OBI-teaching-app
 
 Protótipo de aplicativo de questões interativas para ensino de lógica, focado na preparação para a primeira fase da OBI (Olimpíada Brasileira de Informática).
 
